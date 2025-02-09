@@ -37,7 +37,7 @@ class VectorStore:
                 """
         self.embedding = HuggingFaceEmbeddings(
             model_name="sentence-transformers/all-mpnet-base-v2"
-            )
+        )
         self.persist_directory = persist_directory
         self.collection_name = collection_name
         self.documents = documents
@@ -56,7 +56,7 @@ class VectorStore:
                 persist_directory=self.persist_directory,
                 collection_name=self.collection_name,
                 embedding_function=self.embedding
-                )
+            )
             print(f'--- Vectore store loaded. ---')
         else:
             print(f'--- Creating vector store. ---')
