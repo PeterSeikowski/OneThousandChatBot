@@ -1,7 +1,4 @@
 # OneThousandChatBot
-RAG ChatBot about OneThousandAI
-
-# OneThousand RAG Chatbot
 
 A **Retrieval-Augmented Generation (RAG) Chatbot** that leverages web scraping, document processing, and vector-based retrieval to provide intelligent and contextualized responses based on the content of a given website.
 
