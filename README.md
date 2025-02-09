@@ -73,8 +73,9 @@ OneThousand-RAG-Chatbot/
 
 ## Customization
 - **Changing the Crawled Website**: Modify `url_name` in `main.py`.
-- **Adjusting Retrieval Parameters**: Modify `num_retrievals` in `rag_chat_bot.py`.
-- **Using a Different Embedding Model**: Change the model in `vector_store.py`.
+- **Adjusting Retrieval Parameters**: Modify `num_retrievals` in `RagChatBot.py`.
+- **Using a different Embedding Model**: Change the model in `VectorStore.py`.
+- **Using a different LLM**: Change API key and model in `RagChatBot.py`
 
 ## Dependencies
 Key dependencies include:
@@ -89,17 +90,6 @@ Install them using:
 ```bash
 pip install -r requirements.txt
 ```
-
-## Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit your changes.
-4. Open a pull request.
-
-
-## Contact
-For questions or suggestions, feel free to reach out via [your email or GitHub issues].
 
 
 
