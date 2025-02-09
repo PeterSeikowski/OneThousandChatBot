@@ -19,8 +19,8 @@ Ensure you have the following installed:
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/OneThousand-RAG-Chatbot.git
-   cd OneThousand-RAG-Chatbot
+   git clone https://github.com/PeterSeikowski/OneThousandChatBot.git
+   cd OneThousandChatBot
    ```
 2. Create a virtual environment and activate it:
    ```bash
