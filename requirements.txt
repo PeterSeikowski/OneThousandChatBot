@@ -6,11 +6,9 @@ cryptography==44.0.0
 docutils==0.21.2
 HTMLParser==0.0.2
 importlib_metadata==8.5.0
-importlib_metadata==8.0.0
 ipython==8.12.3
 ipywidgets==8.1.5
 Jinja2==3.1.5
-jnius==1.1.0
 keyring==25.6.0
 langchain==0.3.18
 langchain_chroma==0.2.1
@@ -30,5 +28,3 @@ thread==2.0.5
 tornado==6.4.2
 truststore==0.10.1
 unstructured==0.16.17
-urllib3_secure_extra==0.1.0
-xmlrpclib==1.0.1
