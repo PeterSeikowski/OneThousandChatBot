@@ -12,7 +12,7 @@ A **Retrieval-Augmented Generation (RAG) Chatbot** that leverages web scraping, 
 ## Installation
 ### Prerequisites
 Ensure you have the following installed:
-- Python 3.8+
+- Python 3.10+
 - pip
 - Virtual environment (optional but recommended)
 
