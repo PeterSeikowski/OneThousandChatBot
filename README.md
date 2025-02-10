@@ -55,18 +55,7 @@ python main.py
    - Takes user input.
    - Retrieves relevant document chunks.
    - Generates accurate responses using LLM-based inference.
-
-## Project Structure
-```
-OneThousand-RAG-Chatbot/
-│-- main.py                 # Main script to run the chatbot
-│-- rag_web_crawler.py      # Web crawler for extracting website content
-│-- document_preprocessor.py # Cleans, filters, and chunks extracted text
-│-- vector_store.py         # Handles document embedding and storage in ChromaDB
-│-- rag_chat_bot.py         # Chatbot logic, retrieval, and LLM interaction
-│-- requirements.txt        # Dependencies list
-│-- .env.example            # Example environment variable file
-```
+   - 
 
 ## Customization
 - **Changing the Crawled Website**: Modify `url_name` in `main.py`.
